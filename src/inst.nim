@@ -1,0 +1,2 @@
+proc inst*() =
+    echo "Install..."
