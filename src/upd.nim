@@ -1,0 +1,2 @@
+proc upd*() =
+    echo "Update..."
