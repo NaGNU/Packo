@@ -1,0 +1,2 @@
+proc rem*() =
+    echo "Delete..."
